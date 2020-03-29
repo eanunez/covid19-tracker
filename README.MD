@@ -12,7 +12,7 @@ https://github.com/CSSEGISandData/COVID-19 - Worldwide Data repository operated 
 
 ## Intallation
 - It is recommended to create an environment using conda or virtualenv
-- Download or fork this repo.
+- Download or clone this repo.
 ## Preview
 - ![Map Tracker](covi19_map.JPG)
 - ![Linear Plot](covi19_linear.JPG)
