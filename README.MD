@@ -1,0 +1,2 @@
+This is a simple covid-19 tracker, modified for Philippines. This is built using Django.
+jhu - https://github.com/CSSEGISandData/COVID-19 - Worldwide Data repository operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).

@@ -1,0 +1,13 @@
+{% extends 'tracker/base.html' %}
+
+{% block extrahead %}
+{% endblock %}
+
+{% block content %}
+
+{% autoescape off %}
+{{ map_plot }}
+{{ line_plot }}
+{% endautoescape %}
+
+{% endblock %}
