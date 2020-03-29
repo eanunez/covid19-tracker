@@ -15,7 +15,7 @@ https://github.com/CSSEGISandData/COVID-19 - Worldwide Data repository operated 
 - Download or clone this repo.
 - cd to root directory
 - In your terminal run: <br>
-`$ python -r requirements.txt`
+`$ pip install -r requirements.txt`
 - Once completed, cd to 'mysite' <br>
 `python manage.py runserver` <br>
 to run to local ip address.
